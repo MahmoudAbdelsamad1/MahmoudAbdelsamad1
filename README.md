@@ -12,7 +12,7 @@
 ---
 
 ### 🛠️ Tech Stack
-- **Languages:** C#, SQL, python , Java , kOTLIN  
+- **Languages:** C#, SQL, python , Java , Kotlin
 - **Frameworks:** ASP.NET Core, Entity Framework Core , Flutter 
 - **Databases:** SQL Server, My SQL  
 - **Tools:** Visual Studio, Git, GitHub, Postman  
