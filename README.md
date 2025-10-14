@@ -27,7 +27,7 @@
 ---
 
 ### 📫 Connect with Me
-- 💼 [LinkedIn]([https://www.linkedin.com/in/your-link](https://www.linkedin.com/in/mahmoud-mohammed-abdelsamad-729b6a217/))  
+- 💼 [LinkedIn](https://www.linkedin.com/in/[your-link](https://www.linkedin.com/in/mahmoud-mohammed-abdelsamad-729b6a217/))  
 - 📧 [your.email@example.com](m.m.abdelsamad82@gmail.com)  
 
 ---
