@@ -1,5 +1,5 @@
 # 👋 Hi, I'm [Mahmoud Abd el-samad]  
-🎯 **Aspiring Backend Developer | ASP.NET Core | C# | SQL Server**
+🎯 **Backend Developer | ASP.NET Core | C# | SQL Server**
 
 ---
 
